@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "name": "Uzbekistan",
+            "id": 1
+        },
+        {
+            "name": "Tadjikistan",
+            "id": 2
+        },
+        {
+            "name": "Pakistan",
+            "id": 3
+        },
+        {
+            "name": "Kazakistan",
+            "id": 4
+        },
+        {
+            "name": "Turkmanistan",
+            "id": 5
+        },
+        {
+            "name": "QaraKalpag'istan",
+            "id": 6
+        },
+        {
+            "name": "Arabistan",
+            "id": 7
+        },
+        {
+            "name": "Turkey",
+            "id": 8
+        },
+        {
+            "name": "USA",
+            "id": 9
+        },
+        {
+            "name": "Russia",
+            "id": 10
+        },
+        {
+            "name": "British",
+            "id": 11
+        },
+        {
+            "name": "China",
+            "id": 12
+        },
+        {
+            "name": "Czech",
+            "id": 13
+        },
+        {
+            "name": "British",
+            "id": 14
+        },
+        {
+            "name": "Iraq",
+            "id": 15
+        },
+        {
+            "name": "Brazil",
+            "id": 16
+        },
+        {
+            "name": "Japan",
+            "id": 17
+        },
+        {
+            "name": "Korea",
+            "id": 18
+        },
+        {
+            "name": "Canada",
+            "id": 19
+        },
+        {
+            "name": "Australia",
+            "id": 20
+        }
+    ]
+}
